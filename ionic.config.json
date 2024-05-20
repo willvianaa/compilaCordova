@@ -1,0 +1,7 @@
+{
+  "name": "compilaCordova",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
